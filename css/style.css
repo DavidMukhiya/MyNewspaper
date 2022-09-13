@@ -13,6 +13,11 @@
 
 }
 
-.footerFull{
-    height: 500;
+.container-fluid{
+    height: auto;
+}
+
+.full{
+    height:auto;
+    background-color: black;
 }
