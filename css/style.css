@@ -5,7 +5,7 @@
 
 
 .paragraph-font p {
-    font-size: 100;
+    font-size: 50;
 }
 
 .footerCSS{
@@ -20,4 +20,13 @@
 .full{
     height:auto;
     background-color: black;
+}
+
+.contentmenu{
+    width: 70%; /* Not Full width */
+    padding-top: 20px;
+    padding-bottom:20px; /* Some padding */
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
 }
