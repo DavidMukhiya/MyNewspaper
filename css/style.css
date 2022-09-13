@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.paragraph-font p {
+    font-size: 100;
+}
+
+.footerCSS{
+    max-width: 100;
+
+}
+
+.footerFull{
+    height: 500;
+}
